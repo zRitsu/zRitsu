@@ -1,4 +1,4 @@
-[![Discord Presence](https://lanyard.cnrad.dev/api/184889853102653440)](https://discord.com/users/184889853102653440)
+[![Discord Presence](https://lanyard.cnrad.dev/api/184889853102653440?borderRadius=10px&idleMessage=Inativo)](https://discord.com/users/184889853102653440)
 
 # 💻 Tech Stack:
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Qt](https://img.shields.io/badge/Qt-%23217346.svg?style=for-the-badge&logo=Qt&logoColor=white)
