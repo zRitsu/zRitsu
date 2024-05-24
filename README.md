@@ -1,6 +1,6 @@
 [![Discord Presence](https://lanyard.cnrad.dev/api/184889853102653440?borderRadius=10px&idleMessage=Nenhuma%20atividade)](https://discord.com/users/184889853102653440)
 
-![My scrobbles](https://lastfm-recently-played.vercel.app/api?user=xRitsu&show_user=header)
+![My scrobbles](https://lastfm-recently-played.vercel.app/api?user=xritsu&show_user=header&loved=true&count=10&footer_style=compact_stats)
 
 # 💻 Tech Stack:
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Qt](https://img.shields.io/badge/Qt-%23217346.svg?style=for-the-badge&logo=Qt&logoColor=white)
