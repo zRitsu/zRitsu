@@ -1,4 +1,4 @@
-[![Discord Presence](https://lanyard.cnrad.dev/api/184889853102653440?idleMessage=N%C3%A3o%20estou%20jogando%2Fouvindo%20algo%20no%20momento&theme=&borderRadius=20)](https://discord.com/users/184889853102653440)
+[![Discord Presence](https://lanyard.cnrad.dev/api/184889853102653440?idleMessage=Sem%20atividade%20no%20momento...)](https://discord.com/users/184889853102653440)
 
 
 ![My scrobbles](https://lastfm-recently-played.vercel.app/api?user=xritsu&show_user=header&loved=true&count=10&footer_style=compact_stats&loved_style=3)
